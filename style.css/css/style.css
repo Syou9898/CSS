@@ -1,0 +1,29 @@
+@charset "UTF-8";
+ html {
+     font-size: 100%;
+ }
+ .body {
+     width: 800px;
+     height: 90px;
+     margin-right: 300px;
+     background: #00F
+ }
+.main-nav {
+    display: flex;
+    font-size: 1.0rem;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style: none;
+}
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 490;
+}
+.main-nav li {
+    margin-left: 36px;
+}
+.page-header {
+    display: flex;
+    justify-content: space-between;
+}
